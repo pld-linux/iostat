@@ -1,12 +1,12 @@
 Summary:	Command line I/O performance monitoring utility
 Summary(pl):	Dzia³aj±ce z linii poleceñ narzêdzie do monitorowania wydajno¶ci I/O
 Name:		iostat
-Version:	2.1
+Version:	2.2
 Release:	1
 License:	unknown
 Group:		Applications/System
 Source0:	http://linux.inet.hr/%{name}-%{version}.tar.gz
-# Source0-md5:	e642d4c209973b7ee4523c3f783eff09
+# Source0-md5:	74725e956dabbae4e9742990fa19a944
 URL:		http://linux.inet.hr/
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
