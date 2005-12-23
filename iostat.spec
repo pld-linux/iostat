@@ -3,7 +3,7 @@ Summary(pl):	Dzia³aj±ce z linii poleceñ narzêdzie do monitorowania wydajno¶ci I/
 Name:		iostat
 Version:	2.2
 Release:	1
-License:	unknown
+License:	GPL v2
 Group:		Applications/System
 Source0:	http://linux.inet.hr/%{name}-%{version}.tar.gz
 # Source0-md5:	74725e956dabbae4e9742990fa19a944
@@ -34,6 +34,7 @@ administrator systemów nie powinien pozostaæ bez tego narzêdzia.
 
 %build
 %{__make} \
+	CC="%{__cc}" \
 	CFLAGS="%{rpmcflags}"
 
 %install
