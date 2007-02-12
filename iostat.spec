@@ -1,5 +1,5 @@
 Summary:	Command line I/O performance monitoring utility
-Summary(pl):	Dzia³aj±ce z linii poleceñ narzêdzie do monitorowania wydajno¶ci I/O
+Summary(pl.UTF-8):   DziaÅ‚ajÄ…ce z linii poleceÅ„ narzÄ™dzie do monitorowania wydajnoÅ›ci I/O
 Name:		iostat
 Version:	2.2
 Release:	1
@@ -19,15 +19,15 @@ transfer rates, is that you finally can get important information
 about disk utilization, number of requests, average queue size and
 disk & queue wait times. No serious sysadmin should be without it.
 
-%description -l pl
-iostat to dzia³aj±ce z linii poleceñ narzêdzie do monitorowania
-wydajno¶ci wej¶cia/wyj¶cia. Jest dostêpne dla prawie ka¿dej u¿ywanej
-obecnie wersji uniksa, a to jest wersja dla Linuksa. Dzia³a z 2.4 i
-2.6. To, co ró¿ni je od innych narzêdzi linuksowych, przewa¿nie
-pokazuj±cych tylko szybko¶æ transferu I/O, to podawanie wa¿nych
-informacji o wykorzystaniu dysku, liczbie ¿±dañ, ¶rednim rozmiarze
-kolejki oraz czasach oczekiwania dla dysku i kolejki. ¯aden powa¿ny
-administrator systemów nie powinien pozostaæ bez tego narzêdzia.
+%description -l pl.UTF-8
+iostat to dziaÅ‚ajÄ…ce z linii poleceÅ„ narzÄ™dzie do monitorowania
+wydajnoÅ›ci wejÅ›cia/wyjÅ›cia. Jest dostÄ™pne dla prawie kaÅ¼dej uÅ¼ywanej
+obecnie wersji uniksa, a to jest wersja dla Linuksa. DziaÅ‚a z 2.4 i
+2.6. To, co rÃ³Å¼ni je od innych narzÄ™dzi linuksowych, przewaÅ¼nie
+pokazujÄ…cych tylko szybkoÅ›Ä‡ transferu I/O, to podawanie waÅ¼nych
+informacji o wykorzystaniu dysku, liczbie Å¼Ä…daÅ„, Å›rednim rozmiarze
+kolejki oraz czasach oczekiwania dla dysku i kolejki. Å»aden powaÅ¼ny
+administrator systemÃ³w nie powinien pozostaÄ‡ bez tego narzÄ™dzia.
 
 %prep
 %setup -q
