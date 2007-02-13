@@ -1,5 +1,5 @@
 Summary:	Command line I/O performance monitoring utility
-Summary(pl.UTF-8):   Działające z linii poleceń narzędzie do monitorowania wydajności I/O
+Summary(pl.UTF-8):	Działające z linii poleceń narzędzie do monitorowania wydajności I/O
 Name:		iostat
 Version:	2.2
 Release:	1
