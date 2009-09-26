@@ -7,7 +7,7 @@ License:	GPL v2
 Group:		Applications/System
 Source0:	http://linux.inet.hr/%{name}-%{version}.tar.gz
 # Source0-md5:	74725e956dabbae4e9742990fa19a944
-URL:		http://linux.inet.hr/
+URL:		http://www.linuxinsight.com/iostat_utility.html
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
 %description
